@@ -308,3 +308,11 @@ LogInit: Object subsystem initialized
 [2018.02.12-17.19.10:954][287]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
 [2018.02.12-17.19.10:963][287]EditorErrors: New page: Save Output
 [2018.02.12-17.19.10:963][287]EditorErrors:Warning: Warning Error saving '../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.02.12-17.19.57:102][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BumTing" FILE="../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/BumTing.uasset" SILENT=true
+[2018.02.12-17.19.57:116][286]LogSavePackage: Save=12.03ms
+[2018.02.12-17.19.57:116][286]LogSavePackage: Moving '../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Saved/BumTing299AF428463B18BF0924728EDDA3966C.tmp' to '../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/BumTing.uasset'
+[2018.02.12-17.19.57:118][286]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/BumTing.uasset
+[2018.02.12-17.23.06:364][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestGIMP" FILE="../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/TestGIMP.uasset" SILENT=true
+[2018.02.12-17.23.06:379][939]LogSavePackage: Save=12.66ms
+[2018.02.12-17.23.06:379][939]LogSavePackage: Moving '../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Saved/TestGIMP4FB9826C46FF5B46AC91F4AA3EAE3FF2.tmp' to '../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/TestGIMP.uasset'
+[2018.02.12-17.23.06:381][939]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/harrison.bell/Documents/GitHub/FMP_Test1_7/Content/TestGIMP.uasset
